@@ -1,6 +1,6 @@
 
-# Setup Docker Para Projetos Laravel (8 ou 9)
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
+# Setup Docker Projetos Laravel  9
+(https://academy.especializati.com.br)
 
 ### Passo a passo
 Clone Repositório
@@ -76,5 +76,5 @@ php artisan key:generate
 
 
 Acessar o projeto
-[http://localhost:8989](http://localhost:8989)
+[http://localhost:8989](
 # argos-bsd-pdevo
